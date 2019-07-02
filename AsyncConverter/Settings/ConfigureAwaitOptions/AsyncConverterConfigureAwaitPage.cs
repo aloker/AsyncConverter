@@ -7,7 +7,7 @@ using JetBrains.Application.UI.Controls.StringCollectionEdit.Impl.Buttons;
 using JetBrains.Application.UI.Controls.StringCollectionEdit.Impl.Items;
 using JetBrains.Application.UI.Options;
 using JetBrains.Application.UI.Options.OptionsDialog;
-using JetBrains.DataFlow;
+using JetBrains.Lifetimes;
 using JetBrains.ReSharper.Feature.Services.Resources;
 
 namespace AsyncConverter.Settings.ConfigureAwaitOptions
